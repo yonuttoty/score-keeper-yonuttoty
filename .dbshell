@@ -1,0 +1,4 @@
+db.players.find()
+db.players.find({name:"Rambo"})
+db.players.find({score:0})
+db.players.remove()
